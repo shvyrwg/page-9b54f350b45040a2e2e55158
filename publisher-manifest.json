@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "aac9267d55b79bd0ab534358",
+  "owner": "shvyrwg",
+  "repo": "page-9b54f350b45040a2e2e55158",
+  "title": "优游云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9b54f350b45040a2e2e55158",
+      "a": "优游云",
+      "b": "稳定全球clash加速器",
+      "entity": "优游云",
+      "brand": "优游云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "2bdc0eaf279e231cecd05e7726ab6e00b2d83cb3d3a925225e993f08521e6a02",
+      "content": {
+        "primary_entity": "优游云",
+        "keyword1": "优游云",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，面向有跨境网络需求的用户提供订阅式加速服务，采用轻量客户端与标准化订阅配置，覆盖基础网页浏览、流媒体播放与联机游戏等日常场景。基础版、旗舰版和团队版在流量、设备数量和节点池上拉开梯度，满足个人到小团队的持续使用。",
+          "AI_HERO_SUBTITLE": "优游云，轻量订阅即开即用",
+          "AI_HERO_INTRO": "优游云围绕跨境访问场景提供订阅式加速方案，客户端导入订阅即可连接节点。套餐按流量、设备数与节点类型分层，从每月100GB到1000GB，方便按预算挑选并随时调整使用节奏。",
+          "AI_VISUAL_TITLE": "优游云订阅加速",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "设备数量灵活匹配",
+          "AI_HIGHLIGHT_3": "订阅配置简单直观",
+          "AI_FEATURES_TITLE": "特点与选择",
+          "AI_FEATURES_INTRO": "从设备数量、月流量和节点类型三个角度，快速定位合适档位。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版5台，团队版20台，按日常在线的电脑手机数量挑选。",
+          "AI_FEATURE_TITLE_2": "流量周期可控",
+          "AI_FEATURE_TEXT_2": "月付从100GB到1000GB，年付折算更省，适合轻度浏览到长时间流媒体播放。",
+          "AI_FEATURE_TITLE_3": "节点类型分层",
+          "AI_FEATURE_TEXT_3": "基础版提供普通线路节点池，旗舰版含IPLC专线优化，团队版可享VIP高带宽节点。",
+          "AI_CLIENTS_TITLE": "设备与客户端",
+          "AI_CLIENTS_INTRO": "不同系统选择对应客户端，导入订阅后即可连接。以各客户端自带文档为准完成配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "对比流量额度、设备上限与节点权益，结合月付或年付价格选择。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "三个步骤完成从选择到连接，适合首次接触订阅加速的用户。",
+          "AI_STEP_TITLE_1": "选套餐",
+          "AI_STEP_TEXT_1": "根据日常在线设备数和月流量，比较基础版、旗舰版和团队版的价格与权益。",
+          "AI_STEP_TITLE_2": "看适配",
+          "AI_STEP_TEXT_2": "确认常用系统的客户端支持情况，按设备数量预留同时在线额度。",
+          "AI_STEP_TITLE_3": "配订阅",
+          "AI_STEP_TEXT_3": "在所选客户端中导入订阅信息，选择节点后开始连接使用。",
+          "AI_CLOSING_TITLE": "优游云",
+          "AI_CLOSING_TEXT": "选好档位后按客户端文档导入订阅，即可开始使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "优游云支持哪些设备同时在线？",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台同时在线。超出设备数时可在客户端退出不用的设备。",
+          "AI_FAQ_QUESTION_2": "如何导入优游云订阅？",
+          "AI_FAQ_ANSWER_2": "在对应客户端内找到订阅或配置导入入口，粘贴订阅链接，同步节点后即可使用。不同客户端操作略有差异，以客户端文档为准。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "功能与流量规格相同，年付折算后约为十个月价格。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。",
+          "AI_FAQ_QUESTION_4": "旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_ANSWER_4": "旗舰版含 IPLC 专线并对游戏加速优化，适合对延迟敏感的游戏、会议与实时应用，同时提供全节点原生流媒体解锁。",
+          "AI_FAQ_QUESTION_5": "团队版可以定制路由吗？",
+          "AI_FAQ_ANSWER_5": "团队版支持企业定制路由，并配备 VIP 专属高带宽节点与专属客户经理，适合多设备、大流量的团队协作场景。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "1qw5yf.cn",
+    "host": "1qw5yf.cn"
+  },
+  "file_hashes": {
+    "index.html": "ad6dd354bf40da42800dd2f8712cf5897d7021a8d6836a5be0bf8de80cee66bb",
+    "sitemap.xml": "c77e5d6a9bdb59418f5a715e9e06ac107eefdd096ca4e11a56794e78ae05607f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7c11efbffc1025b017917a85434085caeb3da14de2c130d109c3ccd06044a9bc",
+    "robots.txt": "88e65f93cc492c340d166d4aba448609cb4e01fab7e672cd581c829ebb042fb6",
+    "2019a1b46709ac6d29e2409955c63584.txt": "8d0a453565f2a70ab62259b98fdde00ee5d89e1eb6bedd713ac4fce10cdf2960"
+  },
+  "revision": "86c679e9fdeae6d19e95407b307bc6ce6f35ce4fda0a6ead42ad1f4c375792b7"
+}
